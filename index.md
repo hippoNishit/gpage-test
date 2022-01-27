@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/NishitHada/gpage-test/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5888264.js"></script>
+<!-- End of HubSpot Embed Code -->
+
 <iframe class='hippo-embed-frame ' width='720' height='405' scrolling='no' frameborder=0 marginwidth=0 marginheight=0 src='https://hippovideon02knq.hippovideo.io/video/embed/5xbbvwDXV20NGyhG9DBN6DMf0hiWglfViSCgMNkCWpA?autoplay=false' allowfullscreen ></iframe><script>window.hippoEmbedSeo = "5454ddf6-23d6-4de2-b200-519120388c03.json";</script><script src="https://hippo-embed-scripts.s3.amazonaws.com/video-delivery-embed.js" async></script><script>window._hippo_cx_domain = "https://hippovideon02knq.hippovideo.io";var hippo_script=document.createElement("script");hippo_script.src="https://hippo-embed-scripts.s3.amazonaws.com/video-embed-mh.js";document.body.appendChild(hippo_script);</script>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
