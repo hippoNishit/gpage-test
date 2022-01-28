@@ -10,8 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <script>
   var _hsq = window._hsq = window._hsq || [];
+  const urlParams = new URLSearchParams(window.location.search);
   _hsq.push(["identify",{
-    email: 'nishithada_bh@srmuniv.edu.in'
+    email: urlParams.get('email')
   }]);
 </script>
 
