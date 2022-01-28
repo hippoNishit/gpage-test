@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <script>
   var _hsq = window._hsq = window._hsq || [];
   _hsq.push(["identify",{
-    email: 'nishit@hippovideo.io'
+    email: 'nishithada_bh@srmuniv.edu.in'
   }]);
 </script>
 
