@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/NishitHada/gpage-test/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<script>
+  window.addEventListener('message', function(event){
+  console.log(event.data)
+  });
+</script>
+
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5888264.js"></script>
 <!-- End of HubSpot Embed Code -->
